@@ -1,0 +1,11 @@
+{
+    "resource_dir": "./public",
+    "github_bar": "https://github.com/zzhack-stack/zzhack",
+    "pages": [
+        {
+            "name": "wiki",
+            "template": "post",
+            "source": "./wiki.md"
+        }
+    ]
+}
