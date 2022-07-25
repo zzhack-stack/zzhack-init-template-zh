@@ -18,6 +18,7 @@
 
 如果你已经有 [Rust](https://www.rust-lang.org/) 的开发环境了，但在开始之前你还需要安装一些前置依赖，复制下面的命令到你的终端以安装它们。
 ```sh
+rustup target add wasm32-unknown-unknown
 cargo install trunk zzhack
 ```
 
